@@ -1,16 +1,13 @@
 # Bookshelf
 
 ## Computer Science
-- **Introduction to Algorithms** by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
-  - Description
-  - Purchase Link
+- **编码**
+  - Coding的基本思想，把思路扩张一下，有个概念
 
 ## Mathematics
-- **Principles of Mathematical Analysis** by Walter Rudin
-  - Description
-  - Purchase Link
+- **数理逻辑**
+  - 学计算机科学嘛，基本的推理逻辑思维得有，证明的手段得有。
 
 ## Philosophy
-- **Critique of Pure Reason** by Immanuel Kant
-  - Description
-  - Purchase Link
+- **近代哲学史** 
+  - 别埋头看技术，也别闭门苦思冥想，看看你的苦思是不是有人几百年前就提出或者解决了？
